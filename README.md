@@ -31,8 +31,9 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 
 ## 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql,git" />
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql,git" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 ---
