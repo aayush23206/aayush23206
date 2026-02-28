@@ -29,18 +29,10 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql,git" />
 </p>
 
 <p align="center">
@@ -48,7 +40,4 @@ Aviation, Defense, technology innovation, and understanding complex systems.
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-## 🚀 Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql)
 ---
