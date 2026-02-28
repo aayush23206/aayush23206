@@ -37,4 +37,9 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql" />
+</p>
 ---
