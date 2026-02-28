@@ -37,7 +37,4 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/aayush23206/aayush23206/blob/output/github-contribution-grid-snake.svg)
 ---
