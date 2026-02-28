@@ -42,4 +42,8 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql" />
 </p>
+
+## 🚀 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql)
 ---
