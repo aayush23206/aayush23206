@@ -25,7 +25,7 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushk_23) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
+[![Gmail](https://img.shields.io/badge/Email-aayush23206%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayush23206@gmail.com)
 
 ---
 
