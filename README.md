@@ -1,5 +1,4 @@
 # 🎯 About Me:
-Aayush Kumar  
 
 B.Tech Computer Science Engineering Student  
 Aspiring Software Engineer  
@@ -23,9 +22,6 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushk_23) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=aayush23206@gmail.com&subject=Hello%20Aayush)
 
 ---
 
