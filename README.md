@@ -22,9 +22,6 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 
 ---
 
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
