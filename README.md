@@ -29,6 +29,6 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified"/>
-  <img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
