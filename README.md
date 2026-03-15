@@ -25,12 +25,10 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql,git,numpy,pandas" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/ -1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&logoWidth=40" alt="Cisco"/>
 </p>
 
 ---
