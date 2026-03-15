@@ -30,5 +30,5 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/ -1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&logoWidth=40" alt="Cisco"/>
 </p>
