@@ -32,3 +32,9 @@ Aviation, Defense, technology innovation, and understanding complex systems.
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush23206&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+</p>
