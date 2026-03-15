@@ -29,7 +29,7 @@ Aviation, Defense, technology innovation, and understanding complex systems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+ [![Oracle](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1GdagA6oGuUxSkkEyHxhHvw-MCLdO96cH/view?usp=sharing)
+  [![Cisco](https://img.shields.io/badge/Cisco-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1vzPOPfZ-l2bXVnIKDzP9RsPtK0tjLg4Q/view?usp=sharing)
 </p>
 
