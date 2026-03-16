@@ -8,8 +8,8 @@ Computer Science Engineering student with a strong interest in software developm
 
 Skills :  
 Python, C, C++, Java, SQL  
-HTML, CSS  
-Git, GitHub, MySQL  
+HTML, CSS, Javascript
+Git, GitHub, MySQL, MongoDB
 Data Structures, OOP, DBMS, Software Engineering  
 
 Currently Learning :  
