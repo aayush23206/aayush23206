@@ -18,5 +18,6 @@ B.Tech Computer Science Engineering Student<br>Aspiring Learner and Applicant.<b
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush23206&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush23206&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
+
