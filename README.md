@@ -1,6 +1,6 @@
 # 🎯 About Me:
 B.Tech Computer Science Engineering Student<br>Aspiring Learner and Applicant.<br><br>
-<strong>About:</strong><br>Computer Science Engineering student with a strong interest in software development and problem solving. Focused on building solid fundamentals in programming, data structures, and core computer science concepts. Continuously learning and improving through practical projects and consistent practice.<br><br>Skills :<br>Python, C, C++, Java, SQL<br>HTML, CSS, Javascript <br>Git, GitHub, MySQL, MongoDB <br>Data Structures, OOP, DBMS, Software Engineering<br><br>Currently Learning :<br>Data Structures & Algorithms<br>Advanced Python<br>Development best practices<br><br>Interests :<br>Aviation, Defense, technology innovation, and understanding complex systems.
+<strong>About :</strong><br>Computer Science Engineering student with a strong interest in software development and problem solving. Focused on building solid fundamentals in programming, data structures, and core computer science concepts. Continuously learning and improving through practical projects and consistent practice.<br><br><strong>Skills :</strong><br>Python, C, C++, Java, SQL<br>HTML, CSS, Javascript <br>Git, GitHub, MySQL, MongoDB <br>Data Structures, OOP, DBMS, Software Engineering<br><br><strong>Currently Learning :</strong><br>Data Structures & Algorithms<br>Advanced Python<br>Development best practices<br><br><strong>Interests :</strong><br>Aviation, Defense, technology innovation, and understanding complex systems.
 
 ---
 
