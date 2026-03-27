@@ -1,6 +1,23 @@
 # 🎯 About Me:
-B.Tech Computer Science Engineering Student<br>Aspiring Learner and Applicant.<br><br>
-<strong>About :</strong><br>Computer Science Engineering student with a strong interest in software development and problem solving. Focused on building solid fundamentals in programming, data structures, and core computer science concepts. Continuously learning and improving through practical projects and consistent practice.<br><br><strong>Skills :</strong><br>Python, C, C++, Java, SQL<br>HTML, CSS, Javascript <br>Git, GitHub, MySQL, MongoDB <br>Data Structures, OOP, DBMS, Software Engineering<br><br><strong>Currently Learning :</strong><br>Data Structures & Algorithms<br>Advanced Python<br>Development best practices<br><br><strong>Interests :</strong><br>Aviation, Defense, technology innovation, and understanding complex systems.
+B.Tech Computer Science Engineering Student<br>
+Aspiring Learner and Applicant.<br><br>
+
+<strong>About :</strong><br>
+Computer Science Engineering student with a strong interest in software development and problem solving. Focused on building solid fundamentals in programming, data structures, and core computer science concepts. Continuously learning and improving through practical projects and consistent practice.<br><br>
+
+<strong>Skills :</strong><br>
+Python, C, C++, Java, SQL<br>
+HTML, CSS, Javascript <br>
+Git, GitHub, MySQL, MongoDB <br>
+Data Structures, OOP, DBMS, Software Engineering<br><br>
+
+<strong>Currently Learning :</strong><br>
+Data Structures & Algorithms<br>
+Advanced Python<br>
+Development best practices<br><br>
+
+<strong>Interests :</strong><br>
+Aviation, Defense, technology innovation, and understanding complex systems.
 
 ---
 
@@ -9,17 +26,10 @@ B.Tech Computer Science Engineering Student<br>Aspiring Learner and Applicant.<b
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,flask,azure,linux,mysql,git" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-</p>
-
----
 
 <p align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush23206&layout=compact&theme=github_dark)
-
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
