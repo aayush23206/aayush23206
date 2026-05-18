@@ -42,11 +42,11 @@
 
 ## 🧠 Currently Learning
 
-```
-📌 Data Structures & Algorithms  →  Consistent daily practice on LeetCode & HackerRank
-📌 Advanced Python               →  OOP, decorators, async, and real-world applications  
-📌 Development Best Practices    →  Clean code, system design fundamentals, version control
-```
+| 🚀 Topic | 📝 Focus |
+|---------|---------|
+| Data Structures & Algorithms | Daily problem solving on LeetCode & HackerRank |
+| Advanced Python | OOP, decorators, async, and real-world applications |
+| Development Best Practices | Clean code, system design fundamentals, version control |
 
 ---
 
