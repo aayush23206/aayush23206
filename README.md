@@ -1,6 +1,6 @@
 # 🎯 About Me:
 B.Tech Computer Science Engineering Student<br>
-Aspiring Learner and Applicant.<br><br>
+<br><br>
 
 <strong>About :</strong><br>
 Computer Science Engineering student with a strong interest in software development and problem solving. Focused on building solid fundamentals in programming, data structures, and core computer science concepts. Continuously learning and improving through practical projects and consistent practice.<br><br>
