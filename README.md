@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Aayush 👋
-### CS Student • Full-Stack Developer • AI/ML Enthusiast
+### CS Student • Full-Stack Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;AI%2FML+%7C+Data+Analysis+%7C+Cloud;Building+Real+Projects%2C+Not+Just+Theory;Open+to+Internship+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -31,7 +31,7 @@
 
 **Languages**
 <br>
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js)
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,java)
 
 **Web**
 <br>
@@ -40,6 +40,15 @@
 **Databases & Tools**
 <br>
 ![Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode)
+
+**Core Concepts**
+<br>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-brightgreen?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-blueviolet?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-orange?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-lightgrey?style=flat-square)
 
 </div>
 
