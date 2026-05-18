@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey there, I'm Aayush Kumar 👋
+# Hey there, I'm Aayush 👋
 ### CS Student • Full-Stack Developer • AI/ML Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;AI%2FML+%7C+Data+Analysis+%7C+Cloud;Building+Real+Projects%2C+Not+Just+Theory;Open+to+Internship+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aayush23206.github.io/My-Portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayush23206@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=aayush23206@gmail.com)
 
 </div>
 
