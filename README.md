@@ -29,12 +29,17 @@
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) |
-| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) |
-| **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
-| **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
+**Languages**
+<br>
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js)
+
+**Web**
+<br>
+![Skills](https://skillicons.dev/icons?i=html,css,js)
+
+**Databases & Tools**
+<br>
+![Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode)
 
 </div>
 
