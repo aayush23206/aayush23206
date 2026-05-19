@@ -76,7 +76,6 @@ I'm actively looking for **internship opportunities** where I can:
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aayush23206&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Building. Learning. Shipping. Repeat."*
 
