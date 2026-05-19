@@ -14,7 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-> *"Turning data into decisions and ideas into intelligent systems."*
 
 - 🎓 **B.Tech Computer Science Engineering** student based in **Mumbai, India**
 - 💼 Actively seeking **internship opportunities** in AI/ML, Data Analysis, or related fields
